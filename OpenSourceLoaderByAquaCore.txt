@@ -1,0 +1,3 @@
+Open Source Loader, Dont Skid (But can be used with this in your script, : Credit To OpenSourceLoader By Aqua Core For The Launcher, Or Credit To Aqua Core For The Launcher.)
+
+Link : https://github.com/devultra10/OpenSourceLoader/tree/main
